@@ -27,7 +27,7 @@ import javax.validation.Valid;
 import java.util.List;
 import java.util.Optional;
 
-import static com.rest.webservices.example.restfulwebservices.swagger.SwaggerTagStore.DOG_CONTROLLER_TAG_NAME;
+import static com.rest.webservices.example.restfulwebservices.service.LogMessageStore.DOG_CONTROLLER_TAG_NAME;
 import static org.springframework.http.MediaType.APPLICATION_JSON_VALUE;
 
 @RestController
