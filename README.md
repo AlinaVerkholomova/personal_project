@@ -1,1 +1,1 @@
-# personal_project
+# Personal project for Dog management system
